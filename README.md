@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 <!doctype html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon.ico"><title>ruge_kutta</title><script defer="defer" src="/js/chunk-vendors.83d5a43b.js"></script><script defer="defer" src="/js/app.81e9ef75.js"></script><link href="/css/app.3ed53311.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but ruge_kutta doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
-=======
-<!doctype html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon.ico"><title>ruge_kutta</title><script defer="defer" src="/js/chunk-vendors.83d5a43b.js"></script><script defer="defer" src="/js/app.545c4f3d.js"></script><link href="/css/app.56dc0d07.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but ruge_kutta doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
->>>>>>> 984ff67d3a119c60e677013c3a9dbc8f50de6846
+
